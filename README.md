@@ -35,6 +35,9 @@ cd agile-weave
 
 2. Install dependencies
 ```bash
+python -m venv venv_agileweave
+source venv_agileweave/bin/activate
+pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
@@ -90,8 +93,7 @@ chainlit run app.py
 2. The application would automatically open in your browser at `http://localhost:8000`
 
 ## Demo
-
-https://github.com/yourusername/agile-weave/assets/video/demo.mp4
+![Demo GIF](assets/video/demo.gif)
 
 ## Contributing
 

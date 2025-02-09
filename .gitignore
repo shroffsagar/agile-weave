@@ -5,5 +5,4 @@ notebooks/
 *pycache*/
 *.files/
 chainlit.md
-assets/video
 agile-weave*.log
