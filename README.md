@@ -93,7 +93,7 @@ chainlit run app.py
 2. The application would automatically open in your browser at `http://localhost:8000`
 
 ## Demo
-![Demo GIF](assets/video/demo.gif)
+![Demo GIF](assets/video/Demo.gif)
 
 ## Contributing
 
