@@ -92,6 +92,17 @@ chainlit run app.py
 
 2. The application would automatically open in your browser at `http://localhost:8000`
 
+
+### About LLM Application
+Agile Weave demonstrates the power of LLM to streamline software development by using Metabase, an open-source data analytics platform, as a practical example. We leverage its documentation and feature set to show:
+
+1. Build RAG-enhanced context from Metabase's documentation
+2. Generate user stories for new Metabase features using natural language
+3. Create comprehensive test plans that align with Metabase's architecture
+4. (WIP) Automate creation of tests in UI E2E and Robot.
+
+The following demo showcases Agile Weave processing a feature request to implement a currency builder function in Metabase, which combines amount and currency code into a formatted currency value.
+
 ## Demo
 ![Demo GIF](assets/video/Demo.gif)
 
