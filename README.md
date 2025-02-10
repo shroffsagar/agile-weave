@@ -109,7 +109,7 @@ The following demo showcases Agile Weave processing a feature request to impleme
 ## Roadmap
 
 - [ ] Implement TestAutomation Agent
-- [ ] Implement agent question-asking for vague inputs
+- [ ] Implement agent asking clarifying questions for vague inputs / requirements
 - [ ] Add prompt caching
 - [ ] Implement Agent Manager Design pattern
 - [ ] Streamline prompt templates
